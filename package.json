@@ -13,10 +13,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ranjanpandeysbp/crud-task-api/issues"
-  },
-  "homepage": "https://github.com/ranjanpandeysbp/crud-task-api#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.13.0"
